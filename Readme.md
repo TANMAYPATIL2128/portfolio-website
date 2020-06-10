@@ -9,10 +9,6 @@ Public repository
 ### Basic Usage
 
  To preview the code, you can open the `index.html` file in your web browser.
- 
-### If Youtube video is not visible 
-<b> If content is <u>blocked</u>, you may want to 
-<a target="blank"href="https://addons.mozilla.org/fr/firefox/addon/ignore-x-frame-options-header/">install the webext at mozilla store</a> or edit your config.</b>
 
 
 #### Gulp Tasks
