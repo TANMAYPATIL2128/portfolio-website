@@ -10,6 +10,9 @@ Public repository
 
  To preview the code, you can open the `index.html` file in your web browser.
 
+### Hosting Information
+https://tanmaypatil2128.github.io/portfolio-website/
+http://myportfoliowebsite.com.s3-website.us-east-2.amazonaws.com/
 
 #### Gulp Tasks
 
